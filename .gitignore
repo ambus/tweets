@@ -1,0 +1,10 @@
+# Ignoruj pliki obrazów w katalogu assets
+assets/**/*.jpg
+assets/**/*.jpeg
+assets/**/*.png
+assets/**/*.gif
+assets/**/*.svg
+assets/**/*.ico
+assets/**/*.webp
+**/*.kra
+**/*~
