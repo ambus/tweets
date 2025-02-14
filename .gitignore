@@ -8,3 +8,4 @@ assets/**/*.ico
 assets/**/*.webp
 **/*.kra
 **/*~
+.DS_Store
